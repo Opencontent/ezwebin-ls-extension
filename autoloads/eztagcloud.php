@@ -26,7 +26,7 @@
 
 class eZTagCloud
 {
-    function eZTagCloud()
+    function __construct()
     {
     }
 
