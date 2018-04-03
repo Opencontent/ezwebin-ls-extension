@@ -26,7 +26,7 @@
 
 class eZKeywordList
 {
-    function eZKeywordList()
+    function __construct()
     {
     }
 
